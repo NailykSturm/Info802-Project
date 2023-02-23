@@ -1,0 +1,6 @@
+[submodule "Info802-Project_Front"]
+	path = Info802-Project_Front
+	url = https://github.com/NailykSturm/Info802-Project_Front.git
+[submodule "Info802-Project_API"]
+	path = Info802-Project_API
+	url = https://github.com/NailykSturm/Info802-Project_API.git
